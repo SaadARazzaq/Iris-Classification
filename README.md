@@ -21,13 +21,14 @@ Make sure you have the following dependencies installed:
 
 1. Clone the repository:
 
-git clone: https://github.com/saadarazzaq/iris-classification.git
-cd iris-classification
+git clone: 
+`https://github.com/saadarazzaq/iris-classification.git`
+`cd iris-classification`
 
 
 2. Install the required Python packages:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 ### Usage
@@ -54,4 +55,4 @@ The accuracy of the model on the Iris classification task will be displayed as a
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-### FEEL FREE TO CONTACT ME AT 👉 -sabdurrazzaq124@gmail.com
+### FEEL FREE TO CONTACT ME AT 👉 sabdurrazzaq124@gmail.com
